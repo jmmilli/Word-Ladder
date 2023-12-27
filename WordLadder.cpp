@@ -1,9 +1,3 @@
-/*
-* Name: Jayden Milligan 
-* Date Submitted: 12/11/23
-* Assignment Name: Word Ladder
-*/  
-  
 #include <iostream>
 #include <fstream>
 #include <string>
