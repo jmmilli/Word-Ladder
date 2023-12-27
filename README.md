@@ -4,10 +4,6 @@
 This project implements a Word Ladder, a puzzle in which its objective is to transform one word to another by changing one letter at a time, with each step in the process being a valid word. 
 <br />
 
-<h2>Languages Used</h2>
-
-- <b>C++</b> 
-
 <h2>Features</h2>
 
 - <b>Word Graph Generation </b>: The program reads a list of 5-letter words from wordlist05.txt and generates a word graph by creating neighbors for each word.
